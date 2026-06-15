@@ -1,4 +1,4 @@
-# Mockaron
+# Mockaron 🍪
 A cross-platform clinical portal.
 
 Tech stack: `React` `Android Studio` `Kotlin` `Node.js` `Express` `MongoDB` `Appium` `GitHub Actions`
